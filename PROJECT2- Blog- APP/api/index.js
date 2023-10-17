@@ -17,6 +17,7 @@ app.post('/register',async (req,res)=>{
    const {username, password} = req.body;
    const userDoc = await User.create({username, password})
    res.json(userDoc);
+   
 })
 
 
