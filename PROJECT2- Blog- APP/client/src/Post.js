@@ -24,6 +24,7 @@ const Post = () => {
             the intersection of audio engineering and luxury. That’s why its new
             wireless earbuds with active noise cancellation don’t look like
             other earbuds.
+              
           </p>
         </div>
       </div>
